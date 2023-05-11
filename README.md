@@ -1,6 +1,6 @@
 # Group-2-project
 
-this project is contributed by Netal 
+This project is contributed by Netal 
 , anirudh , Shrinit , Amit thakur
 ,we've created simple map out page of 
 Branding Ansa shoes using Cascading 
